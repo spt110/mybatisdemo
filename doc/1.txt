@@ -1,0 +1,8 @@
+https://www.cnblogs.com/mengzw/p/6655001.html
+
+
+
+https://github.com/bnhjk76/mybatisGenerator/tree/master/src/org/mybatis/generator/plugins/rename
+
+
+https://blog.csdn.net/zsy3313422/article/details/53190613/
