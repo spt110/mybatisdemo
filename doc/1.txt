@@ -6,3 +6,6 @@ https://github.com/bnhjk76/mybatisGenerator/tree/master/src/org/mybatis/generato
 
 
 https://blog.csdn.net/zsy3313422/article/details/53190613/
+
+
+https://www.jianshu.com/p/1b826d43dbaf
